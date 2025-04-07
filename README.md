@@ -17,7 +17,7 @@ Welcome to my GitHub! I’m an entry-level software engineer who’s passionate 
 - Memorable commit messages and dark-mode everything
 
 ## ✨ Let’s Connect
-[Portfolio Website](#) • [LinkedIn](#) • [Twitter](#) • [Email](mailto:youremail@example.com)
+[Portfolio Website](#) • [LinkedIn](#) • [Twitter](#) • [Email](mailto:contactjanel247@gmail.com)
 
 
 -->
