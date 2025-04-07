@@ -18,6 +18,3 @@ Welcome to my GitHub! I’m an entry-level software engineer who’s passionate 
 
 ## ✨ Let’s Connect
 [Portfolio Website](#) • [LinkedIn](#) • [Twitter](#) • [Email](mailto:contactjanel247@gmail.com)
-
-
--->
