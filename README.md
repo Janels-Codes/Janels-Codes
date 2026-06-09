@@ -73,6 +73,7 @@ I am currently pursuing a Bachelor's degree in Cybersecurity while concurrently 
 🏛️ Preparing for a career in government cybersecurity and security engineering
 
 📚 Current Goals
+
 ✅ Earn CompTIA Security+
 🔄 Earn Red Hat Certified System Administrator (RHCSA)
 🔄 Complete Bachelor's Degree in Cybersecurity
@@ -81,6 +82,7 @@ I am currently pursuing a Bachelor's degree in Cybersecurity while concurrently 
 🔄 Secure an entry-level cybersecurity or government IT role
 
 📂 Featured Projects
+
 🔹 Security+ Study Notes
 🔹 Active Directory Home Lab
 🔹 Windows-log-analysis
