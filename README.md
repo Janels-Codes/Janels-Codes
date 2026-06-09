@@ -1,4 +1,4 @@
-Hi, I’m Ja'Nel Johnson 
+Hi, I’m Ja'Nel Hobbs 
 
 Security+ Certified | Aspiring Security Analyst/Security Engineer/Government Cybersecurity Professional | RHCSA Candidate | Home Lab Builder specializing in Linux administration, Active Directory, Windows security, and defensive security operations| Lifelong Learner | Code-Coffee Enthusiast
 
