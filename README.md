@@ -1,4 +1,6 @@
-Hi, I’m Ja'Nel Hobbs — Software Engineer | Lifelong Learner | Code-Coffee Enthusiast
+Hi, I’m Ja'Nel Johnson 
+
+Security+ Certified | Aspiring Security Analyst/Security Engineer/Government Cybersecurity Professional | RHCSA Candidate | Home Lab Builder specializing in Linux administration, Active Directory, Windows security, and defensive security operations| Lifelong Learner | Code-Coffee Enthusiast
 
 Welcome to my GitHub! I'm an aspiring cybersecurity professional focused on security engineering, Linux administration, and defensive security operations. I am passionate about securing systems, enhancing organizational security posture, and continuously building practical skills through hands-on labs, technical projects, and industry-recognized certifications.
 
