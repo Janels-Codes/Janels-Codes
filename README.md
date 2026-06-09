@@ -74,28 +74,28 @@ I am currently pursuing a Bachelor's degree in Cybersecurity while concurrently 
 
 📚 Current Goals
 
-✅ Earn CompTIA Security+
-🔄 Earn Red Hat Certified System Administrator (RHCSA)
-🔄 Complete Bachelor's Degree in Cybersecurity
-🔄 Build and document cybersecurity home lab projects
-🔄 Contribute consistently to GitHub
-🔄 Secure an entry-level cybersecurity or government IT role
+🎯 Earn CompTIA Security+
+🐧 Earn Red Hat Certified System Administrator (RHCSA)
+🎓 Complete Bachelor's Degree in Cybersecurity
+🧪 Build and document cybersecurity home lab projects
+💻 Contribute consistently to GitHub
+🛡️ Secure an entry-level cybersecurity or government IT role
 
 📂 Featured Projects
 
-🔹 Security+ Study Notes
-🔹 Active Directory Home Lab
-🔹 Windows-log-analysis
-🔹 Linux-security Labs
-🔹 Security Hardening Checklists
-🔹 Vulnerability Assessment Reports
-🔹 Siem-lab
-🔹 Network Diagrams & Documentation
-🔹 Python Security Automation Scripts
-🔹 Incident Response Playbooks
-🔹 Cloud-security-lab
-🔹 Cybersecurity-roadmap
-🔹 Resume-and-certifications
+🧠  Security+ Study Notes
+🪟  Active Directory Home Lab
+📊  Windows Log Analysis
+🐧  Linux Security Labs
+🛡️  Security Hardening Checklists
+🔍  Vulnerability Assessment Reports
+📡  SIEM Lab
+🗺️  Network Diagrams & Documentation
+🐍  Python Security Automation Scripts
+🚨  Incident Response Playbooks
+☁️  Cloud Security Lab
+🧭  Cybersecurity Roadmap
+📄  Resume & Certifications
 
 
 
